@@ -59,8 +59,12 @@ npm run dev
 
 1. React 函数组件及 Hooks 的使用
 2. TypeScript 接口与类型定义
-3. React Router 路由配置
-4. Ant Design 表格、表单及弹窗组件
-5. Axios 请求封装与异步数据交互
-6. RESTful API 的增删改查操作
-7. 前后端分离开发的基本流程
+
+## 项目截图
+
+![任务管理页面](./screenshots/todo-list.png)
+4. React Router 路由配置
+5. Ant Design 表格、表单及弹窗组件
+6. Axios 请求封装与异步数据交互
+7. RESTful API 的增删改查操作
+8. 前后端分离开发的基本流程
